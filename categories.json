@@ -1,0 +1,59 @@
+{
+    "Investment": [
+        "Wise Europe SA",
+        "ransferwise"
+    ],
+    "Fixed_Expenses": [
+        "Miete",
+        "Vodafone",
+        "Telefonica Germany",
+        "Heilbronner Versorgungs",
+        "Rundfunk",
+        "Entsorgungsbetriebe"
+    ],
+    "Subscriptions": [
+        "spotify",
+        "AMZNPrime",
+        "netflix",
+        "DisneyPlus"
+    ],
+    "Transport": [
+        "DB Vertrieb",
+        "TIERMOBILIT",
+        "Tier Mobility",
+        "Stadtmobil",
+        "Lime Electric",
+        "Ihr Einkauf bei SSB",
+        "DBVERTRIEBG",
+        "COMUTO SA"
+    ],
+    "Eating_Out": [
+        "Takeaway.com",
+        "TAKEAWAYCOM",
+        "Domino",
+        "pizza",
+        "burger",
+        "mcdonald"
+    ],
+    "Credit_Card": [
+        "5401871053140255|5401871053140255"
+    ],
+    "Supermarket": [
+        "rewe",
+        "aldi",
+        "edeka",
+        "kaufland",
+        "penny",
+        "flink"
+    ],
+    "One_Time_Expenses": [
+        "ikea",
+        "mediamarkt",
+        "Vaih GmbH"
+    ],
+    "Medical": [
+        "Apotheke",
+        "DZR GMBH"
+    ]
+
+}
