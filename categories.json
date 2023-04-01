@@ -9,13 +9,8 @@
         "Telefonica Germany",
         "Heilbronner Versorgungs",
         "Rundfunk",
-        "Entsorgungsbetriebe"
-    ],
-    "Subscriptions": [
-        "spotify",
-        "AMZNPrime",
-        "netflix",
-        "DisneyPlus"
+        "Entsorgungsbetriebe",
+        "Thuraiyan .S"
     ],
     "Transport": [
         "DB Vertrieb",
@@ -25,7 +20,10 @@
         "Lime Electric",
         "Ihr Einkauf bei SSB",
         "DBVERTRIEBG",
-        "COMUTO SA"
+        "COMUTO SA",
+        "ssb",
+        "flixbus",
+        "Bolt Operations"
     ],
     "Eating_Out": [
         "Takeaway.com",
@@ -33,7 +31,21 @@
         "Domino",
         "pizza",
         "burger",
-        "mcdonald"
+        "mcdonald",
+        "subway",
+        "enchilada",
+        "SAUSALITOS",
+        "Liefe rando.de",
+        "Lieferando",
+        "restaurant",
+        "fritten",
+        "grill",
+        "bistro",
+        "chicken",
+        "Cortijo",
+        "KFC",
+        "Gastro",
+        "vapiano"
     ],
     "Credit_Card": [
         "5401871053140255|5401871053140255"
@@ -44,16 +56,80 @@
         "edeka",
         "kaufland",
         "penny",
-        "flink"
+        "flink",
+        "hellofresh",
+        "supreme fayas",
+        "norma",
+        "bonus",
+        "DM fil",
+        "dietz",
+        "presse + books",
+        "yormas",
+        "backwerk",
+        "lidl",
+        "netto",
+        "REAL"
     ],
     "One_Time_Expenses": [
         "ikea",
         "mediamarkt",
-        "Vaih GmbH"
+        "media markt",
+        "Vaih GmbH",
+        "decathlon",
+        "Versicherung",
+        "EXPRESSVPN",
+        "obi bau",
+        "WMFGROUPGMB",
+        "WMF",
+        "FAHRRAD",
+        "S.OLIVER",
+        "Frankfurt Airport Retail GmbH",
+        "FRANKFURT AIRPORT",
+        "DEICHMANN",
+        "Michael Kors",
+        "HUGO BOSS",
+        "METZINGEN",
+        "AUSLAENDERBEHOERDE",
+        "GALERIA",
+        "1021693355506 PP.6361.PP  : PayPal",
+        "1021559113865 PP.6361.PP  : PayPal",
+        "MMS E-Commerce GmbH",
+        "H. Boehringer",
+        "Konsulat",
+        "Kaution"
     ],
     "Medical": [
         "Apotheke",
-        "DZR GMBH"
+        "DZR GMBH",
+        "Krankenkasse",
+        "blackholm",
+        "Praxis Dr. Wol"
+    ],
+    "Cash_Expense": [
+        "BARGELDAUSZAHLUNG|BARGELDAUSZAHLUNG",
+        "Raahil",
+        "Rajeev",
+        "Dhus",
+        "Darekar",
+        "TIMHEGESTWE",
+        "CRISTINAHEL",
+        "Patankar"
+    ],
+    "Entertainment": [
+        "CinemaxX",
+        "entertainment",
+        "VAPE",
+        "damfa",
+        "KS schaller",
+        "house of clouds",
+        "HOUSECLOUDS",
+        "The Vape",
+        "TICKETMASTR",
+        "Contour Festival Orga",
+        "spotify",
+        "AMZNPrime",
+        "netflix",
+        "DisneyPlus"
     ]
 
 }
