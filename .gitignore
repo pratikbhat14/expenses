@@ -1,0 +1,5 @@
+*.csv
+*.db
+__pycache__/
+yearly_expenses.json
+monthly_expenses.json
