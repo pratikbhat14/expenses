@@ -2,11 +2,13 @@
 Expense Class
 """
 import datetime
+import uuid 
 class Expense:
     """
     Expense class encapsulates information on individual expenses
     """
     def __init__(self, amount, text, date) -> None:
+        self._id = uuid.uuid4()
         self.amount = amount
         self.text = text
         self.date = date
